@@ -1,3 +1,5 @@
+你在发你🐎呢？
+
 # Arch Install Scripts
 
 This is a small suite of scripts aimed at automating some menial
